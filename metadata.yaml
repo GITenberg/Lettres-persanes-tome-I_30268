@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26352
     wikipedia: http://en.wikipedia.org/wiki/Charles_de_Secondat%2C_baron_de_Montesquieu
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30268#Lettres-persanes-tome-I
 gutenberg_bookshelf:
 - Banned Books from Anne Haight's list
 - FR Littérature
